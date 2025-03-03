@@ -13,5 +13,7 @@ tqdm
 regex
 beautifulsoup4
 lxml
+wordcloud
+gensim
 fastapi[all] 
 uvicorn  
