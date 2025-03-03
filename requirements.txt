@@ -1,0 +1,17 @@
+numpy==1.24.4
+pandas
+matplotlib
+seaborn
+scikit-learn
+# torch==2.0.1+cpu
+transformers
+nltk
+spacy==3.5.3
+textblob
+sentencepiece
+tqdm
+regex
+beautifulsoup4
+lxml
+fastapi[all] 
+uvicorn  
